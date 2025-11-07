@@ -16,7 +16,7 @@ const projects = [
     title: "Software Portfolio",
     description: "Developed a responsive portfolio website using React, TypeScript, and Tailwind CSS, featuring animated UI components, project showcases, and user-friendly navigation.",
     tools: ["HTML", "TypeScript", "CSS", "JS", "React"],
-    github: "https://github.com/mkadz13/Dungeons-and-Zombies",
+    github: "https://github.com/mkadz13/Portfolio",
   },
   {
     id: 3,
